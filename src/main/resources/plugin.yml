@@ -1,0 +1,5 @@
+main: xyz.garslity093.allservermessages.AsmPlugin
+name: all-server-messages
+version: 1.0.0
+author: GerryYuu
+api-version: 1.13
